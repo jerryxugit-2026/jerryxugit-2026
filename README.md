@@ -29,6 +29,9 @@ perturbation-expanding the Young–Laplace equation at small Bond number,
 then showed the critical solution is unique using convex analysis. Built a
 rig with a programmed syringe pusher and an 815 fps camera to test it
 across six nozzle diameters. Theory and experiment agree to 2–12%.
+This grew out of three seasons of Young Physicists' Tournament work —
+CYPT 2026 tournament champion & Special Prize, IYPT China national
+training team in 2025 and 2026.
 *Published — AMME 2025.*
 
 ## Art — making an art-historical argument falsifiable
@@ -70,4 +73,5 @@ economies — on how well they would hold up under climate, health and
 economic shocks. Weighted with ANP and CRITIC together, specifically to
 keep my own judgement from doing too much of the work, then forecast to
 2029 with an LSTM.
-*Team of 4, IMMC 2026. We didn't place. I designed the indicator system.*
+*Team of 4, IMMC 2026 — Second Prize, Greater China round. I designed the
+indicator system and the hybrid weighting scheme.*
