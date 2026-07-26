@@ -22,7 +22,9 @@ Four things I keep coming back to.
 
 ## Physics — closed forms for problems people solve numerically
 
-**[Research-Dripping-Faucet-Model](https://github.com/jerryxugit-2026/Research-Dripping-Faucet-Model)** —
+**[▶ Watch a drop let go — live](https://jerryxugit-2026.github.io/Research-Dripping-Faucet-Model/)** —
+open the valve, change the nozzle, try to make the starting angle matter.
+
 Why does a drop fall exactly when it does? I derived an analytical
 expression for the critical volume of a hanging drop by
 perturbation-expanding the Young–Laplace equation at small Bond number,
@@ -32,11 +34,13 @@ across six nozzle diameters. Theory and experiment agree to 2–12%.
 This grew out of three seasons of Young Physicists' Tournament work —
 CYPT 2026 tournament champion & Special Prize, IYPT China national
 training team in 2025 and 2026.
-*Published — AMME 2025.*
+*Published — AMME 2025 · [write-up, paper & data → Research-Dripping-Faucet-Model](https://github.com/jerryxugit-2026/Research-Dripping-Faucet-Model)*
 
 ## Art — making an art-historical argument falsifiable
 
-**[Research-Ceramic-Networks](https://github.com/jerryxugit-2026/Research-Ceramic-Networks)** —
+**[▶ The five-dimension lens — live](https://jerryxugit-2026.github.io/Research-Ceramic-Networks/)** —
+pick a dimension, watch the same object re-argue itself.
+
 148 Ming and Qing ceramic objects, each scored 0/1/2 on five dimensions
 (theme, style, form, pattern, colour) against three regional standards at
 once. The numbers showed that the Ming→Qing shift was not "more exchange"
@@ -44,14 +48,14 @@ but a rewiring: the Middle Eastern hub dropped out and a direct
 China–Europe axis replaced it. And Islamic elements stayed in Chinese
 production long after imports collapsed — I call this *source-specific
 saturation*.
-*Published — Frontiers in Art Research.*
-[Interactive version →](https://jerryxugit-2026.github.io/Research-Ceramic-Networks/)
+*Published — Frontiers in Art Research · [write-up, data & paper → Research-Ceramic-Networks](https://github.com/jerryxugit-2026/Research-Ceramic-Networks)*
 
 ## AI — building the tools, and counting what they cost
 
-**[Build-Vocab-Master](https://github.com/jerryxugit-2026/Build-Vocab-Master)** —
-Turns a PDF of your textbook into a studyable vocabulary deck. Runs
+**[▶ Ziyang Vocab Master — use it live](https://jerryxugit-2026.github.io/Build-Vocab-Master/Ziyang_Vocab_Master.html)** —
+turns a PDF of your textbook into a studyable vocabulary deck. Runs
 entirely in your browser; your data never leaves it. Free.
+[Repo → Build-Vocab-Master](https://github.com/jerryxugit-2026/Build-Vocab-Master)
 
 **[Build-Agent-Tools-PiMoa](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa)** — Two MCP
 servers: *Sheet Shadow*, which lets an AI agent edit Excel without silently
