@@ -22,7 +22,7 @@ Four things I keep coming back to.
 
 ## Physics — closed forms for problems people solve numerically
 
-**[Dripping-Faucet-Model](https://github.com/jerryxugit-2026/Dripping-Faucet-Model)** —
+**[Research-Dripping-Faucet-Model](https://github.com/jerryxugit-2026/Research-Dripping-Faucet-Model)** —
 Why does a drop fall exactly when it does? I derived an analytical
 expression for the critical volume of a hanging drop by
 perturbation-expanding the Young–Laplace equation at small Bond number,
@@ -36,7 +36,7 @@ training team in 2025 and 2026.
 
 ## Art — making an art-historical argument falsifiable
 
-**[Ziyang-Ceramic-Research](https://github.com/jerryxugit-2026/Ziyang-Ceramic-Research)** —
+**[Research-Ceramic-Networks](https://github.com/jerryxugit-2026/Research-Ceramic-Networks)** —
 148 Ming and Qing ceramic objects, each scored 0/1/2 on five dimensions
 (theme, style, form, pattern, colour) against three regional standards at
 once. The numbers showed that the Ming→Qing shift was not "more exchange"
@@ -45,20 +45,20 @@ China–Europe axis replaced it. And Islamic elements stayed in Chinese
 production long after imports collapsed — I call this *source-specific
 saturation*.
 *Published — Frontiers in Art Research.*
-[Interactive version →](https://jerryxugit-2026.github.io/Ziyang-Ceramic-Research/)
+[Interactive version →](https://jerryxugit-2026.github.io/Research-Ceramic-Networks/)
 
 ## AI — building the tools, and counting what they cost
 
-**[Ziyang-Vocab-Master](https://github.com/jerryxugit-2026/Ziyang-Vocab-Master)** —
+**[Build-Vocab-Master](https://github.com/jerryxugit-2026/Build-Vocab-Master)** —
 Turns a PDF of your textbook into a studyable vocabulary deck. Runs
 entirely in your browser; your data never leaves it. Free.
 
-**[AI-Agent-Tools-PiMoa](https://github.com/jerryxugit-2026/AI-Agent-Tools-PiMoa)** — Two MCP
+**[Build-Agent-Tools-PiMoa](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa)** — Two MCP
 servers: *Sheet Shadow*, which lets an AI agent edit Excel without silently
 destroying your spreadsheet, and *PiMoa*, which runs several models against
 each other with sandboxed verification.
 
-**[AI-and-Employment](https://github.com/jerryxugit-2026/AI-and-Employment)** —
+**[Research-AI-and-Employment](https://github.com/jerryxugit-2026/Research-AI-and-Employment)** —
 I spend a lot of time building tools that automate entry-level information
 work, so I wanted the honest version of what that costs. A working paper
 arguing that output growth and structural unemployment can persist
@@ -67,7 +67,7 @@ together.
 
 ## Society — when a system fails, who absorbs it
 
-**[Urban-Resilience-Index](https://github.com/jerryxugit-2026/Urban-Resilience-Index)** —
+**[Research-Urban-Resilience-Index](https://github.com/jerryxugit-2026/Research-Urban-Resilience-Index)** —
 A 15-indicator index scoring 20 cities — half of them in developing
 economies — on how well they would hold up under climate, health and
 economic shocks. Weighted with ANP and CRITIC together, specifically to
