@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Art history: the five-dimension lens over 148 Ming and Qing ceramics">
+  <rect width="1200" height="630" fill="#FAF6EE"/>
+  <line x1="930" y1="130" x2="930" y2="540" stroke="#E5DCC6" stroke-width="1.5" stroke-dasharray="2 6"/>
+  <line x1="760" y1="352" x2="1105" y2="352" stroke="#E5DCC6" stroke-width="1.5" stroke-dasharray="2 6"/>
+
+  <text x="80" y="140" font-family="Georgia,'Times New Roman',serif" font-size="22" letter-spacing="8" fill="#1F3E9E">ART HISTORY</text>
+  <text x="80" y="212" font-family="Georgia,'Times New Roman',serif" font-size="60" fill="#1B2650">The five-dimension lens</text>
+  <text x="80" y="260" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="27" fill="#6E6A5E">148 ceramics, scored &#8212; an argument you can check</text>
+
+  <defs>
+    <g id="flask" fill="none">
+      <circle cx="930" cy="352" r="124"/>
+      <path d="M905,150 V236"/>
+      <path d="M955,150 V236"/>
+      <path d="M898,150 H962"/>
+      <path d="M905,178 C868,184 868,222 905,228"/>
+      <path d="M955,178 C992,184 992,222 955,228"/>
+    </g>
+  </defs>
+  <use href="#flask" xlink:href="#flask" transform="translate(7,7)" stroke="#A9B8EA" stroke-width="3"/>
+  <use href="#flask" xlink:href="#flask" stroke="#1F3E9E" stroke-width="3.5"/>
+
+  <polygon points="930,276 1002.3,328.5 974.7,413.5 885.3,413.5 857.7,328.5" fill="none" stroke="#1F3E9E" stroke-width="2" stroke-dasharray="5 6" opacity="0.6">
+    <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="6s" repeatCount="indefinite"/>
+  </polygon>
+  <g fill="#1F3E9E" opacity="0.8">
+    <circle cx="930" cy="276" r="3.5"/>
+    <circle cx="1002.3" cy="328.5" r="3.5"/>
+    <circle cx="974.7" cy="413.5" r="3.5"/>
+    <circle cx="885.3" cy="413.5" r="3.5"/>
+    <circle cx="857.7" cy="328.5" r="3.5"/>
+  </g>
+
+  <line x1="80" y1="556" x2="1120" y2="556" stroke="#C9BFA6" stroke-width="2"/>
+  <g stroke="#1F3E9E" stroke-width="2" opacity="0.7">
+    <line x1="80" y1="548" x2="80" y2="564"/>
+    <line x1="607" y1="548" x2="607" y2="564"/>
+    <line x1="1120" y1="548" x2="1120" y2="564"/>
+  </g>
+  <text x="80" y="592" font-family="Georgia,'Times New Roman',serif" font-size="19" fill="#6E6A5E">1368</text>
+  <text x="607" y="592" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="19" fill="#6E6A5E">1644</text>
+  <text x="1120" y="592" text-anchor="end" font-family="Georgia,'Times New Roman',serif" font-size="19" fill="#6E6A5E">1912</text>
+  <text x="343" y="545" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="18" fill="#A39A82">Ming</text>
+  <text x="863" y="545" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="18" fill="#A39A82">Qing</text>
+</svg>
