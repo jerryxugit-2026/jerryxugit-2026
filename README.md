@@ -73,3 +73,19 @@ forecast to 2029.
 </td>
 </tr>
 </table>
+
+---
+
+### The dates, plainly
+
+Commits on this account begin in May 2026 — because this account is the
+archive, not the lab bench. The work is older, and each repository states
+its own timeline:
+
+| | |
+|---|---|
+| **2023** | the dripping faucet arrives as a Young Physicists' Tournament problem — first of three seasons |
+| **2024–25** | the rig, the data, the theory · CYPT 2025 Special Prize · IYPT China national training team · AMME 2025 · the ceramic scoring rubric takes shape |
+| **late 2025** | IMMC 2026 contest cycle — twenty cities, team of 4 |
+| **2026** | CYPT tournament champion · both papers published · the AI-employment working paper |
+| **summer 2026** | everything assembled here — write-ups, data, and the interactive versions |
