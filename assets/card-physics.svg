@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Physics — watch a hanging drop swell to its critical volume and let go">
+  <rect width="1200" height="630" fill="#0A0C10"/>
+  <g stroke="#232B36" stroke-width="2" fill="none">
+    <path d="M40 72 V40 H72"/>
+    <path d="M1128 40 H1160 V72"/>
+    <path d="M40 558 V590 H72"/>
+    <path d="M1128 590 H1160 V558"/>
+  </g>
+  <text x="80" y="140" font-family="Menlo,Consolas,'Courier New',monospace" font-size="22" letter-spacing="8" fill="#7FD1E8">PHYSICS</text>
+  <text x="80" y="212" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="60" font-weight="700" fill="#E8EDF2">Watch a drop let go</text>
+  <text x="80" y="260" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="27" fill="#8A939F">A closed-form answer to <tspan font-style="italic">when</tspan> a hanging drop falls</text>
+
+  <path d="M860,152 C862,180 870,200 872,224 C872,258 826,284 826,344 C826,404 858,436 900,436 C942,436 974,404 974,344 C974,284 928,258 928,224 C930,200 938,180 940,152 Z"
+        fill="#7FD1E8" fill-opacity="0.07" stroke="#7FD1E8" stroke-width="3">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite" keyTimes="0;0.62;0.8;1"
+      values="M860,152 C862,180 870,200 872,224 C872,258 826,284 826,344 C826,404 858,436 900,436 C942,436 974,404 974,344 C974,284 928,258 928,224 C930,200 938,180 940,152 Z;M860,152 C864,190 876,206 876,230 C876,268 806,296 806,362 C806,436 848,478 900,478 C952,478 994,436 994,362 C994,296 924,268 924,230 C924,206 936,190 940,152 Z;M860,152 C864,190 876,206 876,230 C876,268 806,296 806,362 C806,436 848,478 900,478 C952,478 994,436 994,362 C994,296 924,268 924,230 C924,206 936,190 940,152 Z;M860,152 C862,180 870,200 872,224 C872,258 826,284 826,344 C826,404 858,436 900,436 C942,436 974,404 974,344 C974,284 928,258 928,224 C930,200 938,180 940,152 Z"/>
+  </path>
+  <g opacity="0.15">
+    <line x1="770" y1="230" x2="1030" y2="230" stroke="#E4574E" stroke-width="2" stroke-dasharray="7 7"/>
+    <text x="1042" y="237" font-family="Menlo,Consolas,'Courier New',monospace" font-size="19" fill="#E4574E">V &#8594; Vc</text>
+    <animate attributeName="opacity" values="0.15;0.15;1;0.15" keyTimes="0;0.55;0.75;1" dur="5s" repeatCount="indefinite"/>
+  </g>
+  <rect x="820" y="144" width="160" height="8" fill="#39424E"/>
+
+  <g stroke="#2A3340" stroke-width="2">
+    <line x1="1120" y1="150" x2="1120" y2="480"/>
+    <line x1="1108" y1="150" x2="1120" y2="150"/>
+    <line x1="1108" y1="232" x2="1120" y2="232"/>
+    <line x1="1108" y1="315" x2="1120" y2="315"/>
+    <line x1="1108" y1="398" x2="1120" y2="398"/>
+    <line x1="1108" y1="480" x2="1120" y2="480"/>
+  </g>
+  <text x="1098" y="156" text-anchor="end" font-family="Menlo,Consolas,'Courier New',monospace" font-size="15" fill="#5A6673">0</text>
+  <text x="1098" y="486" text-anchor="end" font-family="Menlo,Consolas,'Courier New',monospace" font-size="15" fill="#5A6673">mm</text>
+
+  <text x="80" y="572" font-family="Menlo,Consolas,'Courier New',monospace" font-size="20" fill="#5A6673">d = 0.99&#8211;5.42 mm &#183; 815 fps &#183; theory vs bench 2&#8211;12%</text>
+  <text x="1120" y="572" text-anchor="end" font-family="Menlo,Consolas,'Courier New',monospace" font-size="17" fill="#46505C">computed profile, not footage</text>
+</svg>

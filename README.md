@@ -1,81 +1,75 @@
 # Ziyang Xu · 徐子阳 (Jerry)
 
-The Experimental High School Attached to Beijing Normal University, Beijing
+The Experimental High School Attached to Beijing Normal University, Beijing ·
 [jerryxugithub@gmail.com](mailto:jerryxugithub@gmail.com)
-
----
 
 **I build the measuring instrument first.**
 
-A hanging drop's critical volume used to require numerical integration.
-Whether Ming porcelain "influenced" Iznik pottery used to be an argument you
-won by citing more objects than the other person. Urban resilience used to
-mean whichever indicators your own country already collected.
+A drop's critical volume, a porcelain trade network, a city's resilience —
+before arguing about any of them, I build the ruler, then find out what it
+says. Sometimes it says something I didn't expect, which is the good outcome.
 
-In each case the thing I actually wanted was a way to measure. So most of
-what I do is build the ruler first, then find out what it says — sometimes
-it says something I didn't expect, which is the good outcome.
+Four directions. Every ▶ opens something you can use right now.
 
-Four things I keep coming back to.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+[![Physics — watch a hanging drop swell to its critical volume and let go](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-physics.svg)](https://jerryxugit-2026.github.io/Research-Dripping-Faucet-Model/)
 
-## Physics — closed forms for problems people solve numerically
+**[▶ Watch a drop let go — live](https://jerryxugit-2026.github.io/Research-Dripping-Faucet-Model/)**
 
-**[▶ Watch a drop let go — live](https://jerryxugit-2026.github.io/Research-Dripping-Faucet-Model/)** —
-open the valve, change the nozzle, try to make the starting angle matter.
+Derived by perturbation, proved unique by convexity, tested on a
+home-built rig at 815 fps — theory and bench agree to 2–12%.
 
-Why does a drop fall exactly when it does? I derived an analytical
-expression for the critical volume of a hanging drop by
-perturbation-expanding the Young–Laplace equation at small Bond number,
-then showed the critical solution is unique using convex analysis. Built a
-rig with a programmed syringe pusher and an 815 fps camera to test it
-across six nozzle diameters. Theory and experiment agree to 2–12%.
-This grew out of three seasons of Young Physicists' Tournament work —
-CYPT 2026 tournament champion & Special Prize, IYPT China national
-training team in 2025 and 2026.
-*Published — AMME 2025 · [write-up, paper & data → Research-Dripping-Faucet-Model](https://github.com/jerryxugit-2026/Research-Dripping-Faucet-Model)*
+*Published — SJISR 8(3) 2026, [DOI 10.54691/28yasx98](https://doi.org/10.54691/28yasx98) ·
+CYPT 2026 champion · IYPT national training team ·
+[repo →](https://github.com/jerryxugit-2026/Research-Dripping-Faucet-Model)*
 
-## Art — making an art-historical argument falsifiable
+</td>
+<td width="50%" valign="top">
 
-**[▶ The five-dimension lens — live](https://jerryxugit-2026.github.io/Research-Ceramic-Networks/)** —
-pick a dimension, watch the same object re-argue itself.
+[![Art history — 148 Ming and Qing ceramics scored through the five-dimension lens](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-art.svg)](https://jerryxugit-2026.github.io/Research-Ceramic-Networks/)
 
-148 Ming and Qing ceramic objects, each scored 0/1/2 on five dimensions
-(theme, style, form, pattern, colour) against three regional standards at
-once. The numbers showed that the Ming→Qing shift was not "more exchange"
-but a rewiring: the Middle Eastern hub dropped out and a direct
-China–Europe axis replaced it. And Islamic elements stayed in Chinese
-production long after imports collapsed — I call this *source-specific
-saturation*.
-*Published — Frontiers in Art Research · [write-up, data & paper → Research-Ceramic-Networks](https://github.com/jerryxugit-2026/Research-Ceramic-Networks)*
+**[▶ The five-dimension lens — live](https://jerryxugit-2026.github.io/Research-Ceramic-Networks/)**
 
-## AI — building the tools, and counting what they cost
+148 Ming and Qing ceramics, each scored on five dimensions: the Ming→Qing
+shift was a rewiring, not "more exchange" — and Islamic motifs outlived
+their own imports.
 
-**[▶ Ziyang Vocab Master — use it live](https://jerryxugit-2026.github.io/Build-Vocab-Master/Ziyang_Vocab_Master.html)** —
-turns a PDF of your textbook into a studyable vocabulary deck. Runs
-entirely in your browser; your data never leaves it. Free.
-[Repo → Build-Vocab-Master](https://github.com/jerryxugit-2026/Build-Vocab-Master)
+*Published — Frontiers in Art Research ·
+[repo →](https://github.com/jerryxugit-2026/Research-Ceramic-Networks)*
 
-**[Build-Agent-Tools-PiMoa](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa)** — Two MCP
-servers: *Sheet Shadow*, which lets an AI agent edit Excel without silently
-destroying your spreadsheet, and *PiMoa*, which runs several models against
-each other with sandboxed verification.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**[Research-AI-and-Employment](https://github.com/jerryxugit-2026/Research-AI-and-Employment)** —
-I spend a lot of time building tools that automate entry-level information
-work, so I wanted the honest version of what that costs. A working paper
-arguing that output growth and structural unemployment can persist
-together.
-*Not published.*
+[![AI — build the tools, count the cost](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-ai.svg)](https://jerryxugit-2026.github.io/Build-Vocab-Master/Ziyang_Vocab_Master.html)
 
-## Society — when a system fails, who absorbs it
+**[▶ Ziyang Vocab Master — use it live](https://jerryxugit-2026.github.io/Build-Vocab-Master/Ziyang_Vocab_Master.html)**
 
-**[Research-Urban-Resilience-Index](https://github.com/jerryxugit-2026/Research-Urban-Resilience-Index)** —
-A 15-indicator index scoring 20 cities — half of them in developing
-economies — on how well they would hold up under climate, health and
-economic shocks. Weighted with ANP and CRITIC together, specifically to
-keep my own judgement from doing too much of the work, then forecast to
-2029 with an LSTM.
-*Team of 4, IMMC 2026 — Second Prize, Greater China round. I designed the
-indicator system and the hybrid weighting scheme.*
+Your own PDF becomes a study deck, entirely in your browser — free, no
+accounts. Built because the words I needed were never on anyone else's list.
+
+*[Build-Vocab-Master](https://github.com/jerryxugit-2026/Build-Vocab-Master) ·
+[Build-Agent-Tools-PiMoa](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa) ·
+[Research-AI-and-Employment](https://github.com/jerryxugit-2026/Research-AI-and-Employment) — working paper, unpublished*
+
+</td>
+<td width="50%" valign="top">
+
+[![Society — when a system fails, who absorbs it](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-society.svg)](https://github.com/jerryxugit-2026/Research-Urban-Resilience-Index)
+
+**[Cities under pressure — the index](https://github.com/jerryxugit-2026/Research-Urban-Resilience-Index)**
+
+15 indicators, 20 cities, half in developing economies — weighted with ANP
+and CRITIC together so my own judgement can't quietly run the show, then
+forecast to 2029.
+
+*Team of 4 · IMMC 2026 — Second Prize, Greater China round ·
+[repo →](https://github.com/jerryxugit-2026/Research-Urban-Resilience-Index)*
+
+</td>
+</tr>
+</table>
