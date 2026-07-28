@@ -84,8 +84,8 @@ its own timeline:
 
 | | |
 |---|---|
-| **2023** | the dripping faucet arrives as a Young Physicists' Tournament problem — first of three seasons |
-| **2024–25** | the rig, the data, the theory · CYPT 2025 Special Prize · IYPT China national training team · AMME 2025 · the ceramic scoring rubric takes shape |
+| **2024** | the dripping faucet arrives as a Young Physicists' Tournament problem — first of three seasons · Ziyang Vocab Master gets built |
+| **2025** | the rig, the data, the theory · CYPT 2025 Special Prize · IYPT China national training team · AMME 2025 · the ceramic scoring begins · the PiMoa agent tools start |
 | **late 2025** | IMMC 2026 contest cycle — twenty cities, team of 4 |
-| **2026** | CYPT tournament champion · both papers published · the AI-employment working paper |
+| **2026** | CYPT tournament champion · both papers published · the AI-employment working paper · the agent tools ship |
 | **summer 2026** | everything assembled here — write-ups, data, and the interactive versions |
