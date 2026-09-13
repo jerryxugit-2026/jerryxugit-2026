@@ -9,7 +9,7 @@ A drop's critical volume, a porcelain trade network, a city's resilience —
 before arguing about any of them, I build the ruler, then find out what it
 says. Sometimes it says something I didn't expect, which is the good outcome.
 
-Four directions, and one tool. Every ▶ opens something you can use right now.
+Four directions, and two tools. Every ▶ opens something you can use right now.
 
 <table>
 <tr>
@@ -94,6 +94,17 @@ while DeepSeek could.
 
 </td>
 <td width="50%" valign="top">
+
+[![AI — let the agent edit the copy](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-sheet.svg)](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/sheet_shadow)
+
+**[▶ Sheet Shadow — safe Excel editing for an agent](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/sheet_shadow)**
+
+An agent asked to edit a real workbook will happily rewrite the whole file. Sheet Shadow gives it a
+shadow model instead: inspect the workbook, preview the edit, then write only the cells that should
+change into a new copy. Open-source MCP runtime, currently moving to a single Go implementation.
+
+*Open source · MCP stdio server · Go-native release line · [repo →](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/sheet_shadow)*
+
 </td>
 </tr>
 </table>
