@@ -42,7 +42,7 @@ Talent Program.*
 shift was a rewiring, not "more exchange" — and Islamic motifs outlived
 their own imports.
 
-*Published — Frontiers in Art Research ·
+*Published — Frontiers in Art Research 8(2) 2026, [DOI 10.25236/FAR.2026.080211](https://doi.org/10.25236/FAR.2026.080211) ·
 [repo →](https://github.com/jerryxugit-2026/Research-Ceramic-Networks)*
 
 </td>
