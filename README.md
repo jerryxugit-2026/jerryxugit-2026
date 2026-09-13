@@ -80,7 +80,7 @@ forecast to 2029.
 <tr>
 <td width="50%" valign="top">
 
-[![AI — the page, handed to an agent](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-companion.svg)](https://github.com/jerryxugit-2026/deepseek-harness-web-companion)
+[![AI — the page, handed to an agent](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-companion.svg?v=2)](https://github.com/jerryxugit-2026/deepseek-harness-web-companion)
 
 **[▶ DeepSeek Web Companion — read the page, or work it](https://github.com/jerryxugit-2026/deepseek-harness-web-companion)**
 
@@ -95,7 +95,7 @@ while DeepSeek could.
 </td>
 <td width="50%" valign="top">
 
-[![AI — let the agent edit the copy](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-sheet.svg)](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/sheet_shadow)
+[![AI — let the agent edit the copy](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-sheet.svg?v=2)](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/sheet_shadow)
 
 **[▶ Sheet Shadow — safe Excel editing for an agent](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/sheet_shadow)**
 
