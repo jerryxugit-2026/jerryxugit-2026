@@ -9,7 +9,7 @@ A drop's critical volume, a porcelain trade network, a city's resilience —
 before arguing about any of them, I build the ruler, then find out what it
 says. Sometimes it says something I didn't expect, which is the good outcome.
 
-Four directions. Every ▶ opens something you can use right now.
+Four directions, and one tool. Every ▶ opens something you can use right now.
 
 <table>
 <tr>
@@ -77,6 +77,25 @@ forecast to 2029.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+[![AI — the page, handed to an agent](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-companion.svg)](https://github.com/jerryxugit-2026/deepseek-harness-web-companion)
+
+**[▶ DeepSeek Web Companion — read the page, or work it](https://github.com/jerryxugit-2026/deepseek-harness-web-companion)**
+
+A Chrome side panel that hands the page you are on to an agent running on your own machine —
+the whole page, the part you selected, or a screenshot — and then, one confirmation at a time,
+lets it fill a form, click, translate, or collect the same thing across tabs. I built it after a
+ChatGPT extension worked beautifully for me and I realised the people around me could not use it,
+while DeepSeek could.
+
+*Runs locally · no third-party browser service · one command to install · [repo →](https://github.com/jerryxugit-2026/deepseek-harness-web-companion)*
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
@@ -92,5 +111,5 @@ its own timeline:
 | **2024** | the dripping faucet arrives as my first CYPT problem — the paper grew from it · Ziyang Vocab Master gets built |
 | **2025** | the rig, the data, the theory · CYPT 2025 Special Prize · IYPT China national training team · AMME 2025 · 英才计划 Talent Program — Fermi-liquid hydrodynamics · the ceramic scoring begins · the PiMoa agent tools start |
 | **late 2025** | IMMC 2026 contest cycle — twenty cities, team of 4 |
-| **2026** | CYPT tournament champion · both papers published · the AI-employment working paper · the agent tools ship |
+| **2026** | CYPT tournament champion · both papers published · the AI-employment working paper · the agent tools ship · the browser companion ships |
 | **summer 2026** | everything assembled here — write-ups, data, and the interactive versions |
