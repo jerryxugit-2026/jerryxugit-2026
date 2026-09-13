@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="AI: the page, handed to an agent">
+  <rect width="1200" height="630" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="1198" height="628" fill="none" stroke="#D0D7DE" stroke-width="2"/>
+
+  <text x="80" y="140" font-family="Menlo,Consolas,'Courier New',monospace" font-size="22" letter-spacing="8" fill="#57606A">AI &#183; THE BROWSER</text>
+  <text x="80" y="212" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="60" font-weight="700" fill="#24292F">The page, handed to an agent</text>
+  <text x="80" y="258" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="27" fill="#57606A">A Chrome side panel: read the page, or let it work the page &#8212; every change confirmed first</text>
+
+  <rect x="80" y="300" width="1040" height="254" rx="10" fill="#F6F8FA" stroke="#D0D7DE"/>
+
+  <circle cx="112" cy="336" r="7" fill="#1A7F37"/>
+  <text x="132" y="344" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#1A7F37">DSH connected</text>
+  <text x="1092" y="344" text-anchor="end" font-family="Menlo,Consolas,'Courier New',monospace" font-size="21" fill="#6E7781">on your own machine</text>
+
+  <rect x="104" y="362" width="176" height="42" rx="6" fill="#FFFFFF" stroke="#D0D7DE"/>
+  <text x="192" y="390" text-anchor="middle" font-family="Menlo,Consolas,'Courier New',monospace" font-size="21" fill="#24292F">Attach page</text>
+  <rect x="292" y="362" width="228" height="42" rx="6" fill="#FFFFFF" stroke="#D0D7DE"/>
+  <text x="406" y="390" text-anchor="middle" font-family="Menlo,Consolas,'Courier New',monospace" font-size="21" fill="#24292F">Attach selection</text>
+  <text x="544" y="390" font-family="Menlo,Consolas,'Courier New',monospace" font-size="21" fill="#24292F">&#9745; Browser control</text>
+  <text x="800" y="390" font-family="Menlo,Consolas,'Courier New',monospace" font-size="21" fill="#6E7781">&#9744; Write actions</text>
+
+  <rect x="104" y="418" width="992" height="118" rx="8" fill="#FFFFFF" stroke="#D0D7DE"/>
+  <text x="128" y="456" font-family="Menlo,Consolas,'Courier New',monospace" font-size="24" fill="#24292F">&#30475;&#24038;&#36793;</text>
+  <text x="128" y="492" font-family="Menlo,Consolas,'Courier New',monospace" font-size="24" fill="#0969DA">@&#32593;&#39029;&#25429;&#33719;/2026-09-13-1047-plant-the-peak-apex-nc-official-website-a-7df1.md</text>
+  <text x="128" y="522" font-family="Menlo,Consolas,'Courier New',monospace" font-size="20" fill="#6E7781">web page &#8594; clean Markdown, saved in your workspace</text>
+  <rect x="1052" y="500" width="12" height="26" fill="#0969DA">
+    <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
