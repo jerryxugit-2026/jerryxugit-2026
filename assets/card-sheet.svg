@@ -1,23 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="AI: let the agent edit the copy, not the original">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Sheet Shadow: safe Excel editing for an agent">
   <rect width="1200" height="630" fill="#FFFFFF"/>
   <rect x="1" y="1" width="1198" height="628" fill="none" stroke="#D0D7DE" stroke-width="2"/>
 
-  <text x="80" y="140" font-family="Menlo,Consolas,'Courier New',monospace" font-size="22" letter-spacing="8" fill="#57606A">AI &#183; TOOLING</text>
-  <text x="80" y="212" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="60" font-weight="700" fill="#24292F">Let the agent edit the copy</text>
-  <text x="80" y="260" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="27" fill="#57606A">An MCP runtime that edits Excel through a shadow model &#8212; preview first, patch only the diff</text>
+  <text x="80" y="132" font-family="Menlo,Consolas,'Courier New',monospace" font-size="22" letter-spacing="8" fill="#57606A">AI &#183; TOOLING</text>
+  <text x="80" y="204" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="60" font-weight="700" fill="#24292F">Sheet Shadow</text>
+  <text x="80" y="252" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" fill="#57606A">safe Excel editing for an agent</text>
+  <text x="80" y="298" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" fill="#8B949E">An MCP runtime that edits through a shadow model &#8212; preview first, patch only the diff</text>
 
-  <rect x="80" y="306" width="1040" height="248" rx="10" fill="#F6F8FA" stroke="#D0D7DE"/>
-  <text x="108" y="344" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#6E7781">@@ what the agent is allowed to touch @@</text>
+  <rect x="80" y="336" width="1040" height="238" rx="10" fill="#F6F8FA" stroke="#D0D7DE"/>
+  <text x="108" y="374" font-family="Menlo,Consolas,'Courier New',monospace" font-size="22" fill="#6E7781">@@ what the agent is allowed to touch @@</text>
 
-  <rect x="82" y="356" width="1036" height="44" fill="#FFEBE9"/>
-  <text x="108" y="385" font-family="Menlo,Consolas,'Courier New',monospace" font-size="25" fill="#82071E">-   the real workbook, in place</text>
-  <rect x="82" y="400" width="1036" height="44" fill="#E6FFEC"/>
-  <text x="108" y="429" font-family="Menlo,Consolas,'Courier New',monospace" font-size="25" fill="#116329">+   a shadow model &#8212; inspect, preview, then save a new copy</text>
-  <rect x="82" y="444" width="1036" height="44" fill="#FFEBE9"/>
-  <text x="108" y="473" font-family="Menlo,Consolas,'Courier New',monospace" font-size="25" fill="#82071E">-   rewrite the whole file and hope</text>
-  <rect x="82" y="488" width="1036" height="44" fill="#E6FFEC"/>
-  <text x="108" y="517" font-family="Menlo,Consolas,'Courier New',monospace" font-size="25" fill="#116329">+   patch only the exact cells that should change</text>
-  <rect x="1052" y="496" width="12" height="28" fill="#116329">
+  <rect x="82" y="386" width="1036" height="40" fill="#FFEBE9"/>
+  <text x="108" y="413" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#82071E">-   the real workbook, in place</text>
+  <rect x="82" y="426" width="1036" height="40" fill="#E6FFEC"/>
+  <text x="108" y="453" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#116329">+   a shadow model &#8212; inspect, preview, then save a new copy</text>
+  <rect x="82" y="466" width="1036" height="40" fill="#FFEBE9"/>
+  <text x="108" y="493" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#82071E">-   rewrite the whole file and hope</text>
+  <rect x="82" y="506" width="1036" height="40" fill="#E6FFEC"/>
+  <text x="108" y="533" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#116329">+   patch only the exact cells that should change</text>
+  <rect x="1052" y="514" width="12" height="26" fill="#116329">
     <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 </svg>
