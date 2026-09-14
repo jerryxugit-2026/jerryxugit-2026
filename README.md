@@ -80,9 +80,9 @@ forecast to 2029.
 <tr>
 <td width="50%" valign="top">
 
-[![AI — the page, handed to an agent](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-companion.svg?v=2)](https://github.com/jerryxugit-2026/deepseek-harness-web-companion)
+[![AI — the page, handed to an agent](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-companion.svg?v=2)](https://github.com/jerryxugit-2026/dsh-web-companion)
 
-**[▶ DeepSeek Web Companion — read the page, or work it](https://github.com/jerryxugit-2026/deepseek-harness-web-companion)**
+**[▶ DSH Browser Companion — read the page, or work it](https://github.com/jerryxugit-2026/dsh-web-companion)**
 
 A Chrome side panel that hands the page you are on to an agent running on your own machine —
 the whole page, the part you selected, or a screenshot — and then, one confirmation at a time,
@@ -90,7 +90,7 @@ lets it fill a form, click, translate, or collect the same thing across tabs. I 
 ChatGPT extension worked beautifully for me and I realised the people around me could not use it,
 while DeepSeek could.
 
-*Runs locally · no third-party browser service · one command to install · [repo →](https://github.com/jerryxugit-2026/deepseek-harness-web-companion)*
+*Runs locally · no third-party browser service · one command to install · [repo →](https://github.com/jerryxugit-2026/dsh-web-companion)*
 
 </td>
 <td width="50%" valign="top">
