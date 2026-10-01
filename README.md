@@ -22,8 +22,13 @@ Four directions, and two tools. Every ▶ opens something you can use right now.
 Derived by perturbation, proved unique by convexity, tested on a
 home-built rig at 815 fps — theory and bench agree to 2–12%.
 
-*Published — SJISR 8(3) 2026, [DOI 10.54691/28yasx98](https://doi.org/10.54691/28yasx98) ·
-CYPT 2026 champion · IYPT national training team ·
+*Published — Ziyang Xu. Analytical Analysis of a Dripping Faucet Model based on
+the Perturbation Method[C]//Proceedings of the 8th International Conference on
+Advances in Materials, Machinery, Electronics (AMME 2025). Scientific Journal of
+Intelligent Systems Research, 2026, 8(3): 118-130.
+DOI:[10.54691/28yasx98](https://doi.org/10.54691/28yasx98)*
+
+*CYPT 2026 champion · IYPT national training team ·
 [repo →](https://github.com/jerryxugit-2026/Research-Dripping-Faucet-Model)*
 
 *Ongoing — heated sessile drops: Bénard–Marangoni short-wave instability,
@@ -42,7 +47,13 @@ Talent Program.*
 shift was a rewiring, not "more exchange" — and Islamic motifs outlived
 their own imports.
 
-*Published — Frontiers in Art Research 8(2) 2026, [DOI 10.25236/FAR.2026.080211](https://doi.org/10.25236/FAR.2026.080211) ·
+*Published — Ziyang Xu. Network Reorganization of Cross-Regional Cultural
+Integration in Ming-Qing Ceramics: A Three-Region Comparison and
+Five-Dimensional Diagnosis. Frontiers in Art Research (2026), Vol. 8,
+Issue 2: 65-74.
+[https://doi.org/10.25236/FAR.2026.080211](https://doi.org/10.25236/FAR.2026.080211)*
+
+*[Francis Press — journal page →](https://francis-press.com/papers/20940#location) ·
 [repo →](https://github.com/jerryxugit-2026/Research-Ceramic-Networks)*
 
 </td>
