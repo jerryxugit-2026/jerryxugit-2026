@@ -1,24 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Ziyang Vocab Master: your own PDF, your own word list">
-  <rect width="1200" height="630" fill="#FFFFFF"/>
-  <rect x="1" y="1" width="1198" height="628" fill="none" stroke="#D0D7DE" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Ziyang Vocab Master: your own PDF, your own words">
+  <rect width="1200" height="630" fill="#FFF8EC"/>
+  <rect x="1" y="1" width="1198" height="628" fill="none" stroke="#E8D9BC" stroke-width="2"/>
 
-  <text x="80" y="132" font-family="Menlo,Consolas,'Courier New',monospace" font-size="22" letter-spacing="8" fill="#57606A">AI &#183; TOOLING</text>
-  <text x="80" y="204" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="60" font-weight="700" fill="#24292F">Your own PDF, your own words</text>
-  <text x="80" y="252" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" fill="#57606A">a study deck from the words you actually meet</text>
-  <text x="80" y="298" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" fill="#8B949E">Open source &#8212; runs entirely in your browser, free, no accounts</text>
+  <text x="80" y="140" font-family="Menlo,Consolas,'Courier New',monospace" font-size="22" letter-spacing="8" fill="#B4791F">AI &#183; TOOLING</text>
+  <text x="80" y="212" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="58" font-weight="700" fill="#4A3416">Your own PDF, your own words</text>
+  <text x="80" y="258" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="28" fill="#8A6B3D">a study deck from the words you actually meet</text>
+  <text x="80" y="302" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#A88A5C">Open source &#8212; runs entirely in your browser, free, no accounts</text>
 
-  <rect x="80" y="336" width="1040" height="238" rx="10" fill="#F6F8FA" stroke="#D0D7DE"/>
-  <text x="108" y="374" font-family="Menlo,Consolas,'Courier New',monospace" font-size="22" fill="#6E7781">@@ what the deck is built from @@</text>
+  <defs>
+    <marker id="arrGold" markerWidth="9" markerHeight="9" refX="7" refY="3.5" orient="auto">
+      <path d="M0 0 L7 3.5 L0 7 z" fill="#E8A33D"/>
+    </marker>
+  </defs>
 
-  <rect x="82" y="386" width="1036" height="40" fill="#FFEBE9"/>
-  <text x="108" y="413" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#82071E">-   memorize someone else's word list</text>
-  <rect x="82" y="426" width="1036" height="40" fill="#E6FFEC"/>
-  <text x="108" y="453" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#116329">+   study the words your own textbook uses</text>
-  <rect x="82" y="466" width="1036" height="40" fill="#FFEBE9"/>
-  <text x="108" y="493" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#82071E">-   install it, sign up, sync to the cloud</text>
-  <rect x="82" y="506" width="1036" height="40" fill="#E6FFEC"/>
-  <text x="108" y="533" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#116329">+   open a tab &#8212; nothing leaves your machine</text>
-  <rect x="736" y="514" width="12" height="26" fill="#116329">
-    <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
+  <!-- ============ PDF -> 卡片堆 ============ -->
+  <!-- PDF 页面 -->
+  <rect x="120" y="366" width="188" height="164" rx="8" fill="#FFFFFF" stroke="#D9C39A" stroke-width="2.5"/>
+  <rect x="140" y="388" width="118" height="11" rx="3" fill="#E8D9BC"/>
+  <rect x="140" y="412" width="148" height="9" rx="3" fill="#EFE3CC"/>
+  <rect x="140" y="432" width="148" height="9" rx="3" fill="#EFE3CC"/>
+  <rect x="140" y="452" width="96" height="9" rx="3" fill="#EFE3CC"/>
+  <rect x="140" y="482" width="60" height="22" rx="5" fill="#E8A33D"/>
+  <rect x="210" y="482" width="46" height="22" rx="5" fill="#F2D9AE"/>
+  <text x="214" y="556" text-anchor="middle" font-family="Menlo,Consolas,'Courier New',monospace" font-size="16" fill="#B4791F">your PDF</text>
+
+  <path d="M328 448 L392 448" stroke="#E8A33D" stroke-width="3" fill="none" marker-end="url(#arrGold)"/>
+
+  <!-- 卡片堆 -->
+  <rect x="416" y="392" width="212" height="122" rx="10" fill="#F2D9AE" stroke="#D9C39A" stroke-width="2"/>
+  <rect x="436" y="372" width="212" height="122" rx="10" fill="#F7E8CC" stroke="#D9C39A" stroke-width="2"/>
+  <rect x="456" y="352" width="212" height="122" rx="10" fill="#FFFFFF" stroke="#E8A33D" stroke-width="2.5"/>
+  <text x="562" y="404" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#4A3416">ingest</text>
+  <text x="562" y="434" text-anchor="middle" font-family="Menlo,Consolas,'Courier New',monospace" font-size="16" fill="#8A6B3D">from your own text</text>
+  <text x="562" y="540" text-anchor="middle" font-family="Menlo,Consolas,'Courier New',monospace" font-size="16" fill="#B4791F">a deck you will actually use</text>
+
+  <!-- 右侧注解 -->
+  <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" text-anchor="end">
+    <text x="1112" y="392" font-size="21" fill="#8A6B3D">no install</text>
+    <text x="1112" y="424" font-size="21" fill="#8A6B3D">no account</text>
+    <text x="1112" y="456" font-size="21" fill="#8A6B3D">no upload</text>
+    <text x="1112" y="496" font-size="16" fill="#A88A5C">nothing leaves your machine</text>
+  </g>
+
+  <text x="80" y="578" font-family="Menlo,Consolas,'Courier New',monospace" font-size="18" fill="#B49A6E">Open source &#183; runs entirely client-side</text>
 </svg>
