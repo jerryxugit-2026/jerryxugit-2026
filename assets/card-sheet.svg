@@ -1,24 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Sheet Shadow: safe Excel editing for an agent">
-  <rect width="1200" height="630" fill="#FFFFFF"/>
-  <rect x="1" y="1" width="1198" height="628" fill="none" stroke="#D0D7DE" stroke-width="2"/>
+  <rect width="1200" height="630" fill="#0F2E2B"/>
 
-  <text x="80" y="132" font-family="Menlo,Consolas,'Courier New',monospace" font-size="22" letter-spacing="8" fill="#57606A">AI &#183; TOOLING</text>
-  <text x="80" y="204" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="60" font-weight="700" fill="#24292F">Sheet Shadow</text>
-  <text x="80" y="252" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" fill="#57606A">safe Excel editing for an agent</text>
-  <text x="80" y="298" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" fill="#8B949E">An MCP runtime that edits through a shadow model &#8212; preview first, patch only the diff</text>
+  <g stroke="#2A4E4A" stroke-width="1.5" fill="none">
+    <path d="M40 72 V40 H72"/>
+    <path d="M1128 40 H1160 V72"/>
+    <path d="M40 558 V590 H72"/>
+    <path d="M1128 590 H1160 V558"/>
+  </g>
 
-  <rect x="80" y="336" width="1040" height="238" rx="10" fill="#F6F8FA" stroke="#D0D7DE"/>
-  <text x="108" y="374" font-family="Menlo,Consolas,'Courier New',monospace" font-size="22" fill="#6E7781">@@ what the agent is allowed to touch @@</text>
+  <text x="80" y="140" font-family="Menlo,Consolas,'Courier New',monospace" font-size="22" letter-spacing="8" fill="#5EEAD4">AI &#183; TOOLING</text>
+  <text x="80" y="212" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="60" font-weight="700" fill="#E6F7F3">Sheet Shadow</text>
+  <text x="80" y="260" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" fill="#8FB8B0">safe Excel editing for an agent</text>
+  <text x="80" y="306" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" fill="#6E968F">Preview first. Then patch only the diff.</text>
 
-  <rect x="82" y="386" width="1036" height="40" fill="#FFEBE9"/>
-  <text x="108" y="413" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#82071E">-   the real workbook, in place</text>
-  <rect x="82" y="426" width="1036" height="40" fill="#E6FFEC"/>
-  <text x="108" y="453" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#116329">+   a shadow model &#8212; inspect, preview, then save a new copy</text>
-  <rect x="82" y="466" width="1036" height="40" fill="#FFEBE9"/>
-  <text x="108" y="493" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#82071E">-   rewrite the whole file and hope</text>
-  <rect x="82" y="506" width="1036" height="40" fill="#E6FFEC"/>
-  <text x="108" y="533" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#116329">+   patch only the exact cells that should change</text>
-  <rect x="1052" y="514" width="12" height="26" fill="#116329">
-    <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
+  <!-- ============ 三段式流水线 ============ -->
+  <defs>
+    <marker id="arrMint" markerWidth="9" markerHeight="9" refX="7" refY="3.5" orient="auto">
+      <path d="M0 0 L7 3.5 L0 7 z" fill="#5EEAD4"/>
+    </marker>
+    <g id="cells">
+      <rect x="0" y="0" width="46" height="13"/><rect x="54" y="0" width="46" height="13"/><rect x="108" y="0" width="58" height="13"/>
+      <rect x="0" y="22" width="46" height="13"/><rect x="54" y="22" width="46" height="13"/><rect x="108" y="22" width="58" height="13"/>
+      <rect x="0" y="44" width="46" height="13"/><rect x="54" y="44" width="46" height="13"/><rect x="108" y="44" width="58" height="13"/>
+      <rect x="0" y="66" width="46" height="13"/><rect x="54" y="66" width="46" height="13"/><rect x="108" y="66" width="58" height="13"/>
+    </g>
+  </defs>
+
+  <!-- 1. real .xlsx -->
+  <rect x="96" y="368" width="234" height="128" rx="12" fill="#12403B" stroke="#5EEAD4" stroke-width="2.5"/>
+  <g transform="translate(130,398)" fill="#5EEAD4" opacity="0.5"><use href="#cells"/></g>
+  <text x="213" y="524" text-anchor="middle" font-family="Menlo,Consolas,'Courier New',monospace" font-size="16" fill="#5EEAD4">real .xlsx</text>
+
+  <path d="M338 432 L392 432" stroke="#5EEAD4" stroke-width="3" fill="none" marker-end="url(#arrMint)"/>
+
+  <!-- 2. shadow model -->
+  <rect x="402" y="368" width="234" height="128" rx="12" fill="#0B2422" stroke="#5EEAD4" stroke-width="2.5" stroke-dasharray="9 7"/>
+  <g transform="translate(436,398)" fill="none" stroke="#5EEAD4" stroke-width="1.7" opacity="0.5"><use href="#cells"/></g>
+  <rect x="490" y="420" width="46" height="13" fill="#5EEAD4"/>
+  <text x="519" y="524" text-anchor="middle" font-family="Menlo,Consolas,'Courier New',monospace" font-size="16" fill="#5EEAD4">shadow model</text>
+
+  <path d="M644 432 L698 432" stroke="#5EEAD4" stroke-width="3" fill="none" marker-end="url(#arrMint)"/>
+
+  <!-- 3. patched copy -->
+  <rect x="708" y="368" width="234" height="128" rx="12" fill="#12403B" stroke="#5EEAD4" stroke-width="2.5"/>
+  <g transform="translate(742,398)" fill="#5EEAD4" opacity="0.22"><use href="#cells"/></g>
+  <rect x="796" y="420" width="46" height="13" fill="#5EEAD4"/>
+  <text x="825" y="524" text-anchor="middle" font-family="Menlo,Consolas,'Courier New',monospace" font-size="16" fill="#5EEAD4">patched copy</text>
+
+  <!-- 右侧注解 -->
+  <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" text-anchor="end">
+    <text x="1112" y="392" font-size="21" fill="#8FB8B0">one cell changes,</text>
+    <text x="1112" y="422" font-size="21" fill="#8FB8B0">everything else survives</text>
+    <text x="1112" y="466" font-size="16" fill="#6E968F">formulas &#183; charts &#183; styles</text>
+    <text x="1112" y="490" font-size="16" fill="#6E968F">hidden sheets &#183; pivots</text>
+  </g>
+
+  <text x="80" y="576" font-family="Menlo,Consolas,'Courier New',monospace" font-size="18" fill="#5A8079">MCP stdio &#183; Go-native release line &#183; delivery gate</text>
 </svg>
