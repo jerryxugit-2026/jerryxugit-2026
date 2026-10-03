@@ -9,7 +9,7 @@ A drop's critical volume, a porcelain trade network, a city's resilience —
 before arguing about any of them, I build the ruler, then find out what it
 says. Sometimes it says something I didn't expect, which is the good outcome.
 
-Four directions, and two tools. Every ▶ opens something you can use right now.
+Four directions, and four tools. Every ▶ opens something you can use right now.
 
 <table>
 <tr>
@@ -61,16 +61,15 @@ Issue 2: 65-74.
 <tr>
 <td width="50%" valign="top">
 
-[![AI — build the tools, count the cost](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-ai.svg)](https://jerryxugit-2026.github.io/Build-Vocab-Master/Ziyang_Vocab_Master.html)
+[![AI — your own PDF, your own words](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-vocab.svg)](https://jerryxugit-2026.github.io/Build-Vocab-Master/Ziyang_Vocab_Master.html)
 
 **[▶ Ziyang Vocab Master — use it live](https://jerryxugit-2026.github.io/Build-Vocab-Master/Ziyang_Vocab_Master.html)**
 
 Your own PDF becomes a study deck, entirely in your browser — free, no
 accounts. Built because the words I needed were never on anyone else's list.
 
-*[Build-Vocab-Master](https://github.com/jerryxugit-2026/Build-Vocab-Master) ·
-[Build-Agent-Tools-PiMoa](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa) ·
-[Research-AI-and-Employment](https://github.com/jerryxugit-2026/Research-AI-and-Employment) — working paper, unpublished*
+*Open source · runs entirely client-side ·
+[repo →](https://github.com/jerryxugit-2026/Build-Vocab-Master)*
 
 </td>
 <td width="50%" valign="top">
@@ -85,6 +84,35 @@ forecast to 2029.
 
 *Team of 4 · IMMC 2026 — Second Prize, Greater China round ·
 [repo →](https://github.com/jerryxugit-2026/Research-Urban-Resilience-Index)*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[![AI — let the agent edit the copy](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-sheet.svg?v=3)](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/sheet_shadow)
+
+**[▶ Sheet Shadow — safe Excel editing for an agent](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/sheet_shadow)**
+
+An agent asked to edit a real workbook will happily rewrite the whole file. Sheet Shadow gives it a
+shadow model instead: inspect the workbook, preview the edit, then write only the cells that should
+change into a new copy. Open-source MCP runtime, currently moving to a single Go implementation.
+
+*Open source · MCP stdio server · Go-native release line · [repo →](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa)*
+
+</td>
+<td width="50%" valign="top">
+
+[![AI — when one model is not enough](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-pimoa.svg)](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/PiMoa)
+
+**[▶ PiMoa — several models argue before anything counts](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/PiMoa)**
+
+An MCP server that puts a review panel in front of your coding agent. Several models answer in blind
+parallel, each inside a read-only sandbox; one referee follows the evidence instead of the loudest
+answer. It found a real bug in its own code that 381 tests had missed — by letting two models
+disagree.
+
+*Open source · TypeScript / Node ≥ 22 · 381 tests · macOS sandbox · [repo →](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa)*
 
 </td>
 </tr>
@@ -106,15 +134,17 @@ while DeepSeek could.
 </td>
 <td width="50%" valign="top">
 
-[![AI — let the agent edit the copy](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-sheet.svg?v=2)](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/sheet_shadow)
+[![AI · The cost — the entry level, automated](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-employment.svg)](https://github.com/jerryxugit-2026/Research-AI-and-Employment)
 
-**[▶ Sheet Shadow — safe Excel editing for an agent](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/sheet_shadow)**
+**[The entry level, automated](https://github.com/jerryxugit-2026/Research-AI-and-Employment)**
 
-An agent asked to edit a real workbook will happily rewrite the whole file. Sheet Shadow gives it a
-shadow model instead: inspect the workbook, preview the edit, then write only the cells that should
-change into a new copy. Open-source MCP runtime, currently moving to a single Go implementation.
+Why entry-level information work can keep disappearing even when the economy is doing fine. Output
+growth and structural unemployment can coexist: the jobs AI creates are not *near* the jobs it
+replaces. A displaced data-entry clerk and a model-governance analyst are not one retraining course
+apart. I wrote it because I spend my time building exactly the tools it is about.
 
-*Open source · MCP stdio server · Go-native release line · [repo →](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/sheet_shadow)*
+*Working paper · May 2026 · sole author · not submitted for publication ·
+[repo →](https://github.com/jerryxugit-2026/Research-AI-and-Employment)*
 
 </td>
 </tr>

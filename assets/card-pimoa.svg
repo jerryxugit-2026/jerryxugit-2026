@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="PiMoa: when one model is not enough">
+  <rect width="1200" height="630" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="1198" height="628" fill="none" stroke="#D0D7DE" stroke-width="2"/>
+
+  <text x="80" y="132" font-family="Menlo,Consolas,'Courier New',monospace" font-size="22" letter-spacing="8" fill="#57606A">AI &#183; TOOLING</text>
+  <text x="80" y="204" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="60" font-weight="700" fill="#24292F">When one model is not enough</text>
+  <text x="80" y="252" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="34" fill="#57606A">several models argue before anything counts</text>
+  <text x="80" y="298" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" fill="#8B949E">An MCP server &#8212; blind proposals, a referee, and a sandbox that cannot touch your disk</text>
+
+  <rect x="80" y="336" width="1040" height="238" rx="10" fill="#F6F8FA" stroke="#D0D7DE"/>
+  <text x="108" y="374" font-family="Menlo,Consolas,'Courier New',monospace" font-size="22" fill="#6E7781">@@ what one run is allowed to do @@</text>
+
+  <rect x="82" y="386" width="1036" height="40" fill="#FFEBE9"/>
+  <text x="108" y="413" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#82071E">-   ask one model and hope</text>
+  <rect x="82" y="426" width="1036" height="40" fill="#E6FFEC"/>
+  <text x="108" y="453" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#116329">+   three models answer blind, one referee follows the evidence</text>
+  <rect x="82" y="466" width="1036" height="40" fill="#FFEBE9"/>
+  <text x="108" y="493" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#82071E">-   accept a confident claim</text>
+  <rect x="82" y="506" width="1036" height="40" fill="#E6FFEC"/>
+  <text x="108" y="533" font-family="Menlo,Consolas,'Courier New',monospace" font-size="23" fill="#116329">+   accept a claim with a file and a line number</text>
+  <rect x="792" y="514" width="12" height="26" fill="#116329">
+    <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
