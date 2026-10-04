@@ -39,11 +39,11 @@ Talent Program.*
 </td>
 <td width="50%" valign="top">
 
-[![Art history — 148 Ming and Qing ceramics scored through the five-dimension lens](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-art.svg)](https://jerryxugit-2026.github.io/Research-Ceramic-Networks/)
+[![Art history — 110 Ming and Qing ceramics scored through the five-dimension lens](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-art.svg)](https://jerryxugit-2026.github.io/Research-Ceramic-Networks/)
 
 **[▶ The five-dimension lens — live](https://jerryxugit-2026.github.io/Research-Ceramic-Networks/)**
 
-148 Ming and Qing ceramics, each scored on five dimensions: the Ming→Qing
+110 Ming and Qing ceramics, each scored on five dimensions: the Ming→Qing
 shift was a rewiring, not "more exchange" — and Islamic motifs outlived
 their own imports.
 
