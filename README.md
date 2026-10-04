@@ -154,9 +154,7 @@ apart. I wrote it because I spend my time building exactly the tools it is about
 
 ### The dates, plainly
 
-Commits on this account begin in May 2026 — because this account is the
-archive, not the lab bench. The work is older, and each repository states
-its own timeline:
+The work is older, and each repository states its own timeline:
 
 | | |
 |---|---|
