@@ -154,7 +154,7 @@ apart. I wrote it because I spend my time building exactly the tools it is about
 
 ### The dates, plainly
 
-The work is older, and each repository states its own timeline:
+The work predates the write-ups here, and each repository states its own timeline:
 
 | | |
 |---|---|
