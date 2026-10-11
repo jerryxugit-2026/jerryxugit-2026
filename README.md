@@ -152,6 +152,40 @@ apart. I wrote it because I spend my time building exactly the tools it is about
 
 ---
 
+### ▶ On film — *Reborn from Shards*, shot in Jingdezhen
+
+[![Reborn from Shards — title card and credit: Directed and Produced By Ziyang Xu](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-reborn-shards.png)](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)
+
+**[▶ Watch the playlist — Reborn from Shards](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)**
+
+Jingdezhen is where I learned that a material can outlive the question it was
+made for. At 15 I spent two months studying ceramics in a town that has been
+firing porcelain since the Song dynasty, and came home with a blue-and-white
+meiping whose rim was slightly crooked. Then I saw stacks of machine-made
+blue-and-white in a roadside shop, every shape perfectly balanced, and wondered
+whether hands that make mistakes still had a job.
+
+These films were shot in Jingdezhen and follow the other end of that question:
+what happens after porcelain breaks. Fired ceramic does not decay — a broken
+bowl lasts centuries — and the city produces hundreds of thousands of tons of it
+a year, buried under old kilns and turned up again by roadworks. I filmed the
+people unburying it: Yi Design, who press recycled shards into permeable bricks
+and furniture and have stayed unprofitable on purpose ("always do the right
+thing, no matter how difficult it is"), and Xun Studio, who test how much
+once-fired powder a clay body will tolerate before it stops being plastic. Then
+I ran the experiment myself — crushed discarded shards, sieved the powder twice,
+mixed two grain sizes at three ratios, and fired 120 test specimens. Only 20
+came out intact, and the usable ceiling sat around 10% powder. The films end
+where my own work begins: shards from my grandmother's old bowl, and a "flowing
+apple" built to hold the time we had lost. Machines are designed for perfection;
+I am still interested in the crooked rim.
+
+*Written, directed and produced by Ziyang Xu · shot in Jingdezhen, Jiangxi ·
+Chinese-English bilingual subtitles ·
+[playlist →](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)*
+
+---
+
 ### The dates, plainly
 
 The work predates the write-ups here, and each repository states its own timeline:
