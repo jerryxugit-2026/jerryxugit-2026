@@ -190,7 +190,7 @@ I am still interested in the crooked rim.
 - **Reborn from shards — Full version (11:14)** — the complete documentary: the
   city and its buried waste, Yi Design and Xun Studio, and what happens after
   porcelain breaks.
-- **Reborn — Editor Version** — a second cut of the same story, released as a
+- **Reborn — Editor Choice Version** — a second cut of the same story, released as a
   YouTube premiere.
 
 *Written, directed and produced by Ziyang Xu · shot in Jingdezhen, Jiangxi ·
