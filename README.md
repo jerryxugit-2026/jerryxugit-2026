@@ -180,6 +180,19 @@ where my own work begins: shards from my grandmother's old bowl, and a "flowing
 apple" built to hold the time we had lost. Machines are designed for perfection;
 I am still interested in the crooked rim.
 
+**The playlist holds four cuts, and each one does a different job:**
+
+- **2-Minute Highlights (2:44)** — the whole arc in under three minutes: the
+  problem, the people, the experiment, and the question. Start here.
+- **How to make reclaimed ceramics (4:16)** — the studio experiment on its own:
+  crushing shards, sieving the powder twice, mixing two grain sizes at three
+  ratios, and firing 120 test specimens to find that 20 survive.
+- **Reborn from shards — Full version (11:14)** — the complete documentary: the
+  city and its buried waste, Yi Design and Xun Studio, and what happens after
+  porcelain breaks.
+- **Reborn — Editor Version** — a second cut of the same story, released as a
+  YouTube premiere.
+
 *Written, directed and produced by Ziyang Xu · shot in Jingdezhen, Jiangxi ·
 Chinese-English bilingual subtitles ·
 [playlist →](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)*
