@@ -159,7 +159,7 @@ apart. I wrote it because I spend my time building exactly the tools it is about
 **[▶ Watch the playlist — Reborn from Shards](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)**
 
 Jingdezhen is where I learned that a material can outlive the question it was
-made for. At 15 I spent two months studying ceramics in a town that has been
+made for. I spent two months studying ceramics in a town that has been
 firing porcelain since the Song dynasty, and came home with a blue-and-white
 meiping whose rim was slightly crooked. Then I saw stacks of machine-made
 blue-and-white in a roadside shop, every shape perfectly balanced, and wondered
@@ -182,16 +182,18 @@ I am still interested in the crooked rim.
 
 **The playlist holds four cuts, and each one does a different job:**
 
-- **2-Minute Highlights (2:44)** — the whole arc in under three minutes: the
-  problem, the people, the experiment, and the question. Start here.
-- **How to make reclaimed ceramics (4:16)** — the studio experiment on its own:
-  crushing shards, sieving the powder twice, mixing two grain sizes at three
-  ratios, and firing 120 test specimens to find that 20 survive.
-- **Reborn from shards — Full version (11:14)** — the complete documentary: the
-  city and its buried waste, Yi Design and Xun Studio, and what happens after
-  porcelain breaks.
-- **Reborn — Editor Choice Version** — a second cut of the same story, released as a
-  YouTube premiere.
+- **[2-Minute Highlights (2:44)](https://youtu.be/9qq94EWFfLU)** — the whole arc
+  in under three minutes: the problem, the people, the experiment, and the
+  question. Start here.
+- **[How to make reclaimed ceramics (4:16)](https://youtu.be/cG6fcK39ahE)** — the
+  studio experiment on its own: crushing shards, sieving the powder twice, mixing
+  two grain sizes at three ratios, and firing 120 test specimens to find that 20
+  survive.
+- **[Reborn from shards — Full version (11:14)](https://youtu.be/Ucu1jr4pBH8)** —
+  the complete documentary: the city and its buried waste, Yi Design and Xun
+  Studio, and what happens after porcelain breaks.
+- **[Reborn from shards— Editor Choice Version](https://youtu.be/wH9gUHj6f7Y)** —
+  a second cut of the same story, released as a YouTube premiere.
 
 *Written, directed and produced by Ziyang Xu · shot in Jingdezhen, Jiangxi ·
 Chinese-English bilingual subtitles ·
