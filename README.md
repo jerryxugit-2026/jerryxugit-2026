@@ -9,7 +9,7 @@ A drop's critical volume, a porcelain trade network, a city's resilience —
 before arguing about any of them, I build the ruler, then find out what it
 says. Sometimes it says something I didn't expect, which is the good outcome.
 
-Four directions, and four tools. Every ▶ opens something you can use right now.
+Four directions, and one tool. Every ▶ opens something you can use right now.
 
 <table>
 <tr>
@@ -132,8 +132,8 @@ once-fired powder a clay body will tolerate before it stops being plastic. Then
 I ran the experiment myself — crushed discarded shards, sieved the powder twice,
 mixed two grain sizes at three ratios, and fired 120 test specimens. Only 20
 came out intact, and the usable ceiling sat around 10% powder. The films end
-where my own work. Machines are designed for perfection; I am still interested
-in the crooked rim.
+where my own work begins. Machines are designed for perfection; I am still
+interested in the crooked rim.
 
 **The playlist holds four cuts, and each one does a different job:**
 
