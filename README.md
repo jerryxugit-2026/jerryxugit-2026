@@ -160,8 +160,10 @@ be complete or symmetrical, because what I wanted to express was never a
 perfect fruit, but a flow of longing that couldn't fit into a neat, regular
 form.
 
+<img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-01.jpg" width="720" alt="Melting Apple — a melting red ceramic apple with pink and cream feathers opening from one cut corner">
+
 <details>
-<summary><img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-01.jpg" width="720" alt="Melting Apple — click to open the four views"></summary>
+<summary><strong>▶ Open the four views</strong></summary>
 
 | | |
 |:---:|:---:|
