@@ -114,13 +114,6 @@ apart. I wrote it because I spend my time building exactly the tools it is about
 
 **[▶ Watch the playlist — Reborn from Shards](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)**
 
-Jingdezhen is where I learned that a material can outlive the question it was
-made for. I spent two months studying ceramics in a town that has been
-firing porcelain since the Song dynasty, and came home with a blue-and-white
-meiping whose rim was slightly crooked. Then I saw stacks of machine-made
-blue-and-white in a roadside shop, every shape perfectly balanced, and wondered
-whether hands that make mistakes still had a job.
-
 These films were shot in Jingdezhen and follow the other end of that question:
 what happens after porcelain breaks. Fired ceramic does not decay — a broken
 bowl lasts centuries — and the city produces hundreds of thousands of tons of it
