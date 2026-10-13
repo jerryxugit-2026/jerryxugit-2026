@@ -108,7 +108,7 @@ apart. I wrote it because I spend my time building exactly the tools it is about
 
 ---
 
-### ▶ On film — *Reborn from Shards*, shot in Jingdezhen
+### On film — Reborn from Shards
 
 [![Reborn from Shards — title card and credit: Directed and Produced By Ziyang Xu](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-reborn-shards.png)](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)
 
@@ -147,6 +147,28 @@ interested in the crooked rim of a hand-made pot.
 *Written, directed and produced by Ziyang Xu · shot in Jingdezhen, Jiangxi ·
 Chinese-English bilingual subtitles ·
 [playlist →](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)*
+---
+
+### Reborn Shards- Melting Apple
+
+"Reborn Shards" is a public art initiative where I transform broken ceramic
+heirlooms into personal memorials. Interviewing family, friends, and teachers.
+Apple, my grandmother's favorite fruit. One corner of the apple is cut open,
+showing the pink feathers inside. It resembles my childhood memories at her
+home, the gentle, tender part of love that remains. I don't want the apple to
+be complete or symmetrical, because what I wanted to express was never a
+perfect fruit, but a flow of longing that couldn't fit into a neat, regular
+form.
+
+<details>
+<summary><img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-01.jpg" width="720" alt="Melting Apple — click to open the four views"></summary>
+
+| | |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-01.jpg" width="340" alt="Melting Apple, view 1 — the melting red apple with pink and cream feathers opening from one corner"> | <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-02.jpg" width="340" alt="Melting Apple, view 2 — the apple tilted, feathers lifting from the cut corner"> |
+| <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-03.jpg" width="340" alt="Melting Apple, view 3 — the apple lying on its side, feathers fanned out"> | <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-04.jpg" width="340" alt="Melting Apple, view 4 — the apple upright, a smaller burst of feathers"> |
+
+</details>
 
 ---
 
