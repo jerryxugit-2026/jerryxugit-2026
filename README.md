@@ -160,18 +160,10 @@ be complete or symmetrical, because what I wanted to express was never a
 perfect fruit, but a flow of longing that couldn't fit into a neat, regular
 form.
 
-<img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-01.jpg" width="720" alt="Melting Apple — a melting red ceramic apple with pink and cream feathers opening from one cut corner">
-
-<details>
-<summary><strong>▶ Open the four views</strong></summary>
-
 | | |
 |:---:|:---:|
 | <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-01.jpg" width="340" alt="Melting Apple, view 1 — the melting red apple with pink and cream feathers opening from one corner"> | <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-02.jpg" width="340" alt="Melting Apple, view 2 — the apple tilted, feathers lifting from the cut corner"> |
 | <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-03.jpg" width="340" alt="Melting Apple, view 3 — the apple lying on its side, feathers fanned out"> | <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-04.jpg" width="340" alt="Melting Apple, view 4 — the apple upright, a smaller burst of feathers"> |
-
-</details>
-
 ---
 
 ### The dates, plainly
