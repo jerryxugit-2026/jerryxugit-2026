@@ -114,8 +114,8 @@ apart. I wrote it because I spend my time building exactly the tools it is about
 
 **[▶ Watch the playlist — Reborn from Shards](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)**
 
-These films were shot in Jingdezhen and follow the other end of that question:
-what happens after porcelain breaks. Fired ceramic does not decay — a broken
+These films were shot in Jingdezhen and follow the other end of a question I
+first met in Jingdezhen: what happens after porcelain breaks. Fired ceramic does not decay — a broken
 bowl lasts centuries — and the city produces hundreds of thousands of tons of it
 a year, buried under old kilns and turned up again by roadworks. I filmed the
 people unburying it: Yi Design, who press recycled shards into permeable bricks
@@ -126,7 +126,7 @@ I ran the experiment myself — crushed discarded shards, sieved the powder twic
 mixed two grain sizes at three ratios, and fired 120 test specimens. Only 20
 came out intact, and the usable ceiling sat around 10% powder. The films end
 where my own work begins. Machines are designed for perfection; I am still
-interested in the crooked rim.
+interested in the crooked rim of a hand-made pot.
 
 **The playlist holds four cuts, and each one does a different job:**
 
