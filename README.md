@@ -61,19 +61,6 @@ Issue 2: 65-74.
 <tr>
 <td width="50%" valign="top">
 
-[![AI — your own PDF, your own words](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-vocab.svg)](https://jerryxugit-2026.github.io/Build-Vocab-Master/Ziyang_Vocab_Master.html)
-
-**[▶ Ziyang Vocab Master — use it live](https://jerryxugit-2026.github.io/Build-Vocab-Master/Ziyang_Vocab_Master.html)**
-
-Your own PDF becomes a study deck, entirely in your browser — free, no
-accounts. Built because the words I needed were never on anyone else's list.
-
-*Open source · runs entirely client-side ·
-[repo →](https://github.com/jerryxugit-2026/Build-Vocab-Master)*
-
-</td>
-<td width="50%" valign="top">
-
 [![Society — when a system fails, who absorbs it](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-society.svg)](https://github.com/jerryxugit-2026/Research-Urban-Resilience-Index)
 
 **[Cities under pressure — the index](https://github.com/jerryxugit-2026/Research-Urban-Resilience-Index)**
@@ -86,8 +73,6 @@ forecast to 2029.
 [repo →](https://github.com/jerryxugit-2026/Research-Urban-Resilience-Index)*
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 [![AI — let the agent edit the copy](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-sheet.svg?v=3)](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/sheet_shadow)
@@ -101,37 +86,8 @@ change into a new copy. Open-source MCP runtime, currently moving to a single Go
 *Open source · MCP stdio server · Go-native release line · [repo →](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa)*
 
 </td>
-<td width="50%" valign="top">
-
-[![AI — when one model is not enough](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-pimoa.svg)](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/PiMoa)
-
-**[▶ PiMoa — several models argue before anything counts](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa/tree/main/PiMoa)**
-
-An MCP server that puts a review panel in front of your coding agent. Several models answer in blind
-parallel, each inside a read-only sandbox; one referee follows the evidence instead of the loudest
-answer. It found a real bug in its own code that 381 tests had missed — by letting two models
-disagree.
-
-*Open source · TypeScript / Node ≥ 22 · 381 tests · macOS sandbox · [repo →](https://github.com/jerryxugit-2026/Build-Agent-Tools-PiMoa)*
-
-</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-[![AI — the page, handed to an agent](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-companion.svg?v=2)](https://github.com/jerryxugit-2026/dsh-web-companion)
-
-**[▶ DSH Browser Companion — read the page, or work it](https://github.com/jerryxugit-2026/dsh-web-companion)**
-
-A Chrome side panel that hands the page you are on to an agent running on your own machine —
-the whole page, the part you selected, or a screenshot — and then, one confirmation at a time,
-lets it fill a form, click, translate, or collect the same thing across tabs. I built it after a
-ChatGPT extension worked beautifully for me and I realised the people around me could not use it,
-while DeepSeek could.
-
-*Runs locally · no third-party browser service · one command to install · [repo →](https://github.com/jerryxugit-2026/dsh-web-companion)*
-
-</td>
 <td width="50%" valign="top">
 
 [![AI · The cost — the entry level, automated](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-employment.svg)](https://github.com/jerryxugit-2026/Research-AI-and-Employment)
@@ -176,9 +132,8 @@ once-fired powder a clay body will tolerate before it stops being plastic. Then
 I ran the experiment myself — crushed discarded shards, sieved the powder twice,
 mixed two grain sizes at three ratios, and fired 120 test specimens. Only 20
 came out intact, and the usable ceiling sat around 10% powder. The films end
-where my own work begins: shards from my grandmother's old bowl, and a "flowing
-apple" built to hold the time we had lost. Machines are designed for perfection;
-I am still interested in the crooked rim.
+where my own work. Machines are designed for perfection; I am still interested
+in the crooked rim.
 
 **The playlist holds four cuts, and each one does a different job:**
 
