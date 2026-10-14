@@ -149,9 +149,9 @@ Chinese-English bilingual subtitles ·
 [playlist →](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)*
 ---
 
-### Reborn Shards- Flowing Apple
+### Shards Reborn- Flowing Apple
 
-"Reborn Shards" is a public art initiative where I transform broken ceramic
+"Shards Reborn" is an art initiative where I transform broken ceramic
 heirlooms into personal memorials. Interviewing family, friends, and teachers.
 Apple, my grandmother's favorite fruit. One corner of the apple is cut open,
 showing the pink feathers inside. It resembles my childhood memories at her
