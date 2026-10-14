@@ -149,7 +149,7 @@ Chinese-English bilingual subtitles ·
 [playlist →](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)*
 ---
 
-### Reborn Shards- Melting Apple
+### Reborn Shards- Flowing Apple
 
 "Reborn Shards" is a public art initiative where I transform broken ceramic
 heirlooms into personal memorials. Interviewing family, friends, and teachers.
@@ -162,8 +162,8 @@ form.
 
 | | |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-01.jpg" width="340" alt="Melting Apple, view 1 — the melting red apple with pink and cream feathers opening from one corner"> | <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-02.jpg" width="340" alt="Melting Apple, view 2 — the apple tilted, feathers lifting from the cut corner"> |
-| <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-03.jpg" width="340" alt="Melting Apple, view 3 — the apple lying on its side, feathers fanned out"> | <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/melting-apple-04.jpg" width="340" alt="Melting Apple, view 4 — the apple upright, a smaller burst of feathers"> |
+| <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/flowing-apple-01.jpg" width="340" alt="Flowing Apple, view 1 — the flowing red apple with pink and cream feathers opening from one corner"> | <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/flowing-apple-02.jpg" width="340" alt="Flowing Apple, view 2 — the apple tilted, feathers lifting from the cut corner"> |
+| <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/flowing-apple-03.jpg" width="340" alt="Flowing Apple, view 3 — the apple lying on its side, feathers fanned out"> | <img src="https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/flowing-apple-04.jpg" width="340" alt="Flowing Apple, view 4 — the apple upright, a smaller burst of feathers"> |
 ---
 
 ### The dates, plainly
