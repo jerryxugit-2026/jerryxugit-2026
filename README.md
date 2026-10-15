@@ -114,9 +114,10 @@ apart. I wrote it because I spend my time building exactly the tools it is about
 
 ### On film — Reborn from Shards
 
-[![Reborn from Shards — title card and credit: Directed and Produced By Ziyang Xu](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-reborn-shards.png)](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)
+[![Reborn from Shards — title card and credit: Directed and Produced By Ziyang Xu](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-reborn-shards.png)](https://jerryxugit-2026.github.io/Film-Reborn-from-Shards/)
 
-**[▶ Watch the playlist — Reborn from Shards](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)**
+**[▶ Enter the documentary site — Reborn from Shards](https://jerryxugit-2026.github.io/Film-Reborn-from-Shards/)** ·
+**[▶ Watch on YouTube](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)**
 
 These films were shot in Jingdezhen and follow the question I first met there:
 what happens after porcelain breaks. Fired ceramic
