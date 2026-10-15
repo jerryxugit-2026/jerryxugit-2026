@@ -108,6 +108,8 @@ apart. I wrote it because I spend my time building exactly the tools it is about
 
 ---
 
+<a id="reborn-shards--flowing-apple"></a>
+
 ### On film — Reborn from Shards
 
 [![Reborn from Shards — title card and credit: Directed and Produced By Ziyang Xu](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/card-reborn-shards.png)](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)
@@ -148,8 +150,6 @@ interested in the crooked rim of a hand-made pot.
 Chinese-English bilingual subtitles ·
 [playlist →](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)*
 ---
-
-<a id="reborn-shards--flowing-apple"></a>
 
 ### Shards Reborn- Flowing Apple
 
