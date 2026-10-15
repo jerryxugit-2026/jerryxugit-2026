@@ -109,6 +109,8 @@ apart. I wrote it because I spend my time building exactly the tools it is about
 ---
 
 <a id="reborn-shards--flowing-apple"></a>
+<a id="on-film—reborn-from-shards"></a>
+<a id="on-film-reborn-from-shards"></a>
 
 ### On film — Reborn from Shards
 
