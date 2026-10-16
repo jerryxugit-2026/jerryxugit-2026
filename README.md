@@ -135,7 +135,7 @@ came out intact, and the usable ceiling sat around 10% powder. The films end
 where my own work begins. Machines are designed for perfection; I am still
 interested in the crooked rim of a hand-made pot.
 
-**The playlist holds four cuts, and each one does a different job:**
+**The playlist holds five cuts, and each one does a different job:**
 
 - **[2-Minute Highlights (2:44)](https://youtu.be/9qq94EWFfLU)** — the whole arc
   in under three minutes: the problem, the people, the experiment, and the
@@ -149,6 +149,9 @@ interested in the crooked rim of a hand-made pot.
   Studio, and what happens after porcelain breaks.
 - **[Reborn from shards— Editor Choice Version](https://youtu.be/wH9gUHj6f7Y)** —
   a second cut of the same story, released as a YouTube premiere.
+- **[Holding You Together](https://youtu.be/0J-txgJ3L_c)** — the installation the
+  reclaimed material ends up in: a fractured mother of collected shards holding a
+  smooth high-white baby.
 
 *Written, directed and produced by Ziyang Xu · shot in Jingdezhen, Jiangxi ·
 Chinese-English bilingual subtitles ·
