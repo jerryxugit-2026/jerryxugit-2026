@@ -112,11 +112,11 @@ apart. I wrote it because I spend my time building exactly the tools it is about
 <a id="on-film—reborn-from-shards"></a>
 <a id="on-film-reborn-from-shards"></a>
 
-### On film — Reborn from Shards
+### On film — Shards Reborn
 
-[![Reborn from Shards — the documentary site: a documentary film by Ziyang Xu, shot in Jingdezhen](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/film-site-hero.jpg)](https://jerryxugit-2026.github.io/Film-Reborn-from-Shards/)
+[![Shards Reborn — the documentary site: a documentary film by Ziyang Xu, shot in Jingdezhen](https://raw.githubusercontent.com/jerryxugit-2026/jerryxugit-2026/main/assets/film-site-hero.jpg)](https://jerryxugit-2026.github.io/Film-Shards-Reborn/)
 
-**[▶ Enter the documentary site — Reborn from Shards](https://jerryxugit-2026.github.io/Film-Reborn-from-Shards/)** ·
+**[▶ Enter the documentary site — Shards Reborn](https://jerryxugit-2026.github.io/Film-Shards-Reborn/)** ·
 **[▶ Watch the full film (11:14)](https://youtu.be/Ucu1jr4pBH8)** ·
 **[▶ All four cuts](https://youtube.com/playlist?list=PLT7qnD3BIifg&si=j4C-_Ec37VkbrBwI)**
 
@@ -144,10 +144,10 @@ interested in the crooked rim of a hand-made pot.
   studio experiment on its own: crushing shards, sieving the powder twice, mixing
   two grain sizes at three ratios, and firing 120 test specimens to find that 20
   survive.
-- **[Reborn from shards — Full version (11:14)](https://youtu.be/Ucu1jr4pBH8)** —
+- **[Shards Reborn — Full version (11:14)](https://youtu.be/Ucu1jr4pBH8)** —
   the complete documentary: the city and its buried waste, Yi Design and Xun
   Studio, and what happens after porcelain breaks.
-- **[Reborn from shards— Editor Choice Version](https://youtu.be/wH9gUHj6f7Y)** —
+- **[Shards Reborn— Editor Choice Version](https://youtu.be/wH9gUHj6f7Y)** —
   a second cut of the same story, released as a YouTube premiere.
 - **[Holding You Together](https://youtu.be/0J-txgJ3L_c)** — the installation the
   reclaimed material ends up in: a fractured mother of collected shards holding a
